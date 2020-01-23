@@ -38,4 +38,8 @@ git branch
 git branch -a 
 ```
 
-new branch
+## Other
+### Open VS Code
+```bash
+code .
+```
