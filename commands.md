@@ -20,7 +20,7 @@ git push
 ## Branching
 ### New Branch
 ```bash
-git checkout -b new-branch
+git checkout -b <NEW_BRANCH>
 ```
 
 ### Switch Branch
@@ -44,4 +44,15 @@ git branch -a
 code .
 ```
 
-beginner git
+### Git Flow for new branching
+```
+git checkout master
+git pull
+git checkout <NEW_BRANCH>
+# make your changes in VS CODE
+git add .
+git commit -m "<MESSAGE>"
+git push
+# git will prompt you to push to upstream. copy/paste.
+# open github and create a pull request
+```
