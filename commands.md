@@ -48,7 +48,7 @@ code .
 ```
 git checkout master
 git pull
-git checkout <NEW_BRANCH>
+git checkout -b <NEW_BRANCH>
 # make your changes in VS CODE
 git add .
 git commit -m "<MESSAGE>"
@@ -56,3 +56,5 @@ git push
 # git will prompt you to push to upstream. copy/paste.
 # open github and create a pull request
 ```
+
+third branch
