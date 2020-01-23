@@ -57,4 +57,5 @@ git push
 # open github and create a pull request
 ```
 
-third branch
+### Pro Tips
+1. Do **NOT** merge your own pull request
