@@ -4,7 +4,7 @@
 
 
 ## SMART GOAL
-### Sepecific
+### Specific
 - create more pull requests
 
 ### Measurable
