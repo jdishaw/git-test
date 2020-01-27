@@ -61,3 +61,5 @@ git push
 1. Do **NOT** merge your own pull request
 
 Smart Goal - Pull Request 2
+
+Smart Goal - Pull Request 3
