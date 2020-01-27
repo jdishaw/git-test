@@ -60,6 +60,4 @@ git push
 ### Pro Tips
 1. Do **NOT** merge your own pull request
 
-fourth branch
-
-first new branch for assignment
+Smart Goal - Pull Request 2
