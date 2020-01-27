@@ -14,7 +14,9 @@
 - see [commands](commands.md) for exact steps
 
 ### Relevant
-- foundational to working on gatsby
+- foundational to working odfsjkflsdjfklsn gatsby
 
 ### Time-bound
 - by Monday Jan 27, 2020
+
+Smart Goal - Pull Request 1
