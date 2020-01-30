@@ -4,7 +4,7 @@
 
 
 ## SMART GOAL
-### Specific
+### Sepecific
 - create more pull requests
 
 ### Measurable
@@ -14,7 +14,7 @@
 - see [commands](commands.md) for exact steps
 
 ### Relevant
-- foundational to working on gatsby
+- foundational to working odfsjkflsdjfklsn gatsby
 
 ### Time-bound
 - by Monday Jan 27, 2020
